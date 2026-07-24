@@ -1,6 +1,6 @@
 # Missionária Carmelitana
 
-Repositório dedicado aos meus projetos de evangelização digital e estudos de programação.
+Repositório dedicado aos meus projetos de evangelização digital no mundo da tecnologia.
 
 ## Objetivo
 
@@ -11,9 +11,6 @@ Utilizar a tecnologia como instrumento de formação, comunicação e evangeliza
 ### Scratch (CS50)
 
 Primeiro projeto desenvolvido durante o curso CS50 em 2022/2023
-
-Projeto:
-https://scratch.mit.edu/projects/719415853
 
 #### Aprendizados
 
