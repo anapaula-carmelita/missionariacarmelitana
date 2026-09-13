@@ -14,6 +14,10 @@ Utilizar a tecnologia como instrumento de formação, comunicação e evangeliza
 
 Primeiro projeto desenvolvido durante o curso CS50 em 2022/2023
 
+### [Inteligência Artificial](ia.md)
+
+Página dedicada aos projetos, reflexões e estudos criados sobre Inteligência Artificial.
+
 #### Aprendizados
 
 - Lógica de programação
