@@ -15,6 +15,8 @@ O agente foi desenvolvido e instruído com prompts e contextos específicos para
 * **Ferramenta de Auto-orientação:** Servir como um apoio constante para auto-ajuda espiritual e direcionamento no dia a dia.
 * **Reflexão e Discernimento:** Auxiliar na meditação pessoal e no difícil, mas necessário, discernimento de vida e vocação.
 * **Rotina Devocional:** Ajudar na organização e manutenção da disciplina nos estudos e na vida de oração diária.
+---
+![image_ia.jpeg](image_ia.jpeg)
 
 ---
 
